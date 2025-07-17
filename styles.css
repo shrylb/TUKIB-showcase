@@ -89,7 +89,7 @@ nav {
 	justify-content: flex-start;
 	padding-left: 5%; 
 	overflow: hidden;
-	background: url('assets/home_bg.jpg') no-repeat center center fixed;
+	background: url('home_bg.jpg') no-repeat center center fixed;
 	background-size: cover;
     backdrop-filter: blur(100);
     z-index: 0;
